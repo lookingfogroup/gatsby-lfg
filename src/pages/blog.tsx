@@ -21,7 +21,7 @@ const BlogPage: React.FC = () => {
       <Unity
         unityContext={unityContext}
         matchWebGLToCanvasSize={false}
-        style={{ width: "500px", height: "500px" }}
+        style={{ width: "750px", height: "500px", margin: "100px" }}
     />
     </Layout>
   );
