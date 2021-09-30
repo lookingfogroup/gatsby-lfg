@@ -7,10 +7,10 @@ import Posts from 'components/Posts';
 
 
 const unityContext = new UnityContext({
-  loaderUrl: "https://dev.d2kb8d5702060z.amplifyapp.com/Build/pfdg.loader.js",
-  dataUrl: "https://dev.d2kb8d5702060z.amplifyapp.com/Build/pfdg.data",
-  frameworkUrl: "https://dev.d2kb8d5702060z.amplifyapp.com/Build/pfdg.framework.js",
-  codeUrl: "https://dev.d2kb8d5702060z.amplifyapp.com/Build/pfdg.wasm",
+  loaderUrl: "https://dev.d14b3bpv8feppk.amplifyapp.com/Build/pfdg.loader.js",
+  dataUrl: "https://dev.d14b3bpv8feppk.amplifyapp.com/Build/pfdg.data",
+  frameworkUrl: "https://dev.d14b3bpv8feppk.amplifyapp.com/Build/pfdg.framework.js",
+  codeUrl: "https://dev.d14b3bpv8feppk.amplifyapp.com/Build/pfdg.wasm",
 });
 
 const BlogPage: React.FC = () => {
