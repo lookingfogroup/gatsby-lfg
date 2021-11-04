@@ -1,6 +1,7 @@
 ---
 category: 'services'
-title: 'Graphic Design'
+title: 'Card Emulators'
 icon: 'draw-polygon'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'A perfect example of real casino games within the
+browser, available 24/7!'
 ---

@@ -1,6 +1,7 @@
 ---
 category: 'services'
-title: 'Web Design'
+title: 'Slots'
 icon: 'laptop-code'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Of course we have all sorts of awesome slots for your
+amusement.'
 ---

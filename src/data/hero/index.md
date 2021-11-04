@@ -1,8 +1,10 @@
 ---
 category: 'hero section'
-title: 'Frontend Developer'
-subtitle: 'I am the Great Gatsby'
-content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+title: 'Dragon Fire Games'
+subtitle: 'Play our sweapstakes and win!'
+content: 'Here at DF games we strive to provide an eclectic mix of games that
+also provide fun along with big payouts. We use industry standard and are
+constantly innovating new and fun ways to win!'
 linkTo: '/resume/'
-linkText: 'View My Profile'
+linkText: 'Login'
 ---

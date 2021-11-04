@@ -1,6 +1,6 @@
 ---
 category: 'experiences'
-company: 'Netlify'
+company: 'Cleo Slot'
 position: 'Senior Frontend Developer'
 startDate: 'Jun 2015'
 endDate: 'Jan 2018'

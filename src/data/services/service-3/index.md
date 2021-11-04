@@ -1,6 +1,7 @@
 ---
 category: 'services'
-title: 'Copywrite'
+title: 'Fish games'
 icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Our foray into fish games begins as
+we begin creating some in house.'
 ---
