@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: './baccarat.png'
+cover: './cover.png'
 title: 'Baccarat'
 description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
 date: '2019-11-13'
@@ -12,6 +12,5 @@ _Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
 
 **Sed ut perspiciatis unde omnis**
 
-![Aliquet vel mollis nec](./baccarat.png)
+![Aliquet vel mollis nec](./cover.png)
 [CLICK HERE](https://dev373.d3ets550hjjp1b.amplifyapp.com)
-

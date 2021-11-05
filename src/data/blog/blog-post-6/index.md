@@ -1,8 +1,8 @@
 ---
 category: 'blog'
-cover: './cover.jpg'
-title: 'BlackJack'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+cover: './cover.png'
+title: 'Roulette'
+description: 'SPIN YOUR LUCK AND BET ON BLACK OR RED!'
 date: '2020-02-03'
 tags: ['Mobile', 'Slot']
 published: true
@@ -14,5 +14,5 @@ _Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
 
 "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
-![Aliquet vel mollis nec](./cover.jpg)
-[GOOD LUCK](https://dev.d3mhk4r65cskxk.amplifyapp.com)
+![Aliquet vel mollis nec](./cover.png)
+[GOOD LUCK](https://dev.dduckwrjqngcq.amplifyapp.com)
